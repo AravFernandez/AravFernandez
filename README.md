@@ -1,7 +1,7 @@
 # Hi, I'm Arav 👋
 
 🎓 Computer Science Engineering Student @ SRM  
-💻 Interests: Machine Learning, Artificial Intelligence, Data Analytics  
+💻 Interests: Artificial Intelligence, Machine Learning, Data Science, Data Analytics  
 
 ---
 
