@@ -13,10 +13,8 @@
 ---
 
 ### 📌 Featured Projects
-- **AutoInsights AI** - AI analytics agent for business intelligence queries
-- **Satellite-to-Map GAN** – Pix2Pix GAN with LIME explainability
+- **Satellite-to-Map Image Translation** – Pix2Pix GAN with LIME explainability
 - **Real Time Weapon Detection** - YOLOv8-based model for real-time weapon detection
-- **Sales Analysis Dashboard** - Designed and deployed a dynamic Power BI dashboard
 - **[View More Projects](https://github.com/yourusername?tab=repositories)**
 
 ---
