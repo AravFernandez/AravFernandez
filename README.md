@@ -15,6 +15,4 @@
 ### 📌 Featured Projects
 - **Satellite-to-Map Image Translation** – Pix2Pix GAN with LIME explainability
 - **Real Time Weapon Detection** - YOLOv8-based model for real-time weapon detection
-- **[View More Projects]([https://github.com/yourusername?tab=repositories](https://github.com/AravFernandez?tab=repositories))**
-
 ---
